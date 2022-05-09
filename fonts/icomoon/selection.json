@@ -30873,19 +30873,19 @@
         "isMulticolor": false,
         "isMulticolor2": false,
         "tags": [
-          "local_pharmacy"
+          "local_Pharmacycy"
         ],
         "defaultCode": 58704,
         "grid": 24
       },
       "attrs": [],
       "properties": {
-        "ligatures": "local_pharmacy",
+        "ligatures": "local_Pharmacycy",
         "id": 464,
         "order": 475,
         "prevSize": 24,
         "code": 58704,
-        "name": "local_pharmacy"
+        "name": "local_Pharmacycy"
       },
       "setIdx": 2,
       "setId": 2,
